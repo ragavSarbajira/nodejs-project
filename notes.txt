@@ -1,0 +1,6 @@
+npm init -y
+npm install express
+run commend //npm run dev
+automatic run //npm  install --save-dev nodemon
+
+npm i dotenv cors helmet morgan @neondatabase/serverless
